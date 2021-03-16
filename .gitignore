@@ -1,0 +1,5 @@
+main
+.idea/*
+.idea
+.git/*
+.DS_Store
