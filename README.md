@@ -7,7 +7,7 @@ Upload files to Notion.
 ## Example 
 
 ```bash
-❯ ./notion-uploader not -p ... -t ... install.sh        
+❯ ./notion-uploader -p ... -t ... install.sh        
 Local: /.../install.sh
 1.03 KiB / 1.03 KiB [--------------------] 100.00% 810 B p/s 2s
 syncing blocks....
