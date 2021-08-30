@@ -2,7 +2,7 @@
 
 Upload files to Notion.
 
-上传文件到Notion的小工具。
+上传文件到Notion的小工具。 
 
 ## Example 
 
